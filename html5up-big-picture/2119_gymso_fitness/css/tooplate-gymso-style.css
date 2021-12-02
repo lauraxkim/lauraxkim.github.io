@@ -372,6 +372,16 @@ https://www.tooplate.com/view/2119-gymso-fitness
     position: relative;
   }
 
+  .hero1 {
+    background-image: url('../../../images/portfolio/packscreen.png');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    min-height: 100vh;
+    position: relative;
+  }
+
 
   /*---------------------------------------
      CLASS               
