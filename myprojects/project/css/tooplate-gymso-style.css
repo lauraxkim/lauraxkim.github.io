@@ -401,6 +401,15 @@ https://www.tooplate.com/view/2119-gymso-fitness
     min-height: 100vh;
     position: relative;
   }
+  .hero5 {
+    background-image: url('../../../images/mentorhero1.png');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    min-height: 100vh;
+    position: relative;
+  }
 
 
   /*---------------------------------------
